@@ -1,3 +1,3 @@
 # Githublearnig
 Git
-Author-Rookhmani kandu
+Author-Rookhmani (kandu)
